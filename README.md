@@ -91,6 +91,11 @@ npm start
 ---
 
 ## Resources
-
+**Videos that Help with Learning Methods**:
+- [React Native](https://www.youtube.com/watch?v=0-S5a0eXPoc )
+- [Expo](https://www.youtube.com/watch?v=2n3ZGbB-0S4)
+- [AsyncStorage](https://www.youtube.com/watch?v=UW3w9gLJM1w)
+- [UUID](https://www.npmjs.com/package/uuid)
+- [DayJS](https://www.youtube.com/watch?v=HjQfYd2ziwU)
 
 
