@@ -7,9 +7,9 @@ MoodLog is a mobile app designed to help users track their daily moods with ease
 **Features**
 - **Mood Logging**: Choose your mood (Happy, Neutral, Sad) and optionally add a note.
 - **Mood History**: Browse previous mood entries with the ability to edit or delete them.
-- **Clean and Friendly UI**: User-friendly design with intuitive navigation.
+- **Clean and Friendly UI**: User-friendly design with navigation.
 - **Intro Screen**: A welcoming start screen that introduces the app’s purpose.
-- **Mood Analysis (optional)**: Potential for visual and textual insights in the future.
+
 
 ---
 
@@ -40,8 +40,8 @@ MoodLog is a mobile app designed to help users track their daily moods with ease
 ### 3. History Screen (`HistoryScreen`)
 - Displays past mood entries with options to edit or delete them.
 
-### 4. Report Screen (`ReportScreen`) – *Optional*
-- Presents visual or textual summaries of mood trends (can be developed later).
+### 4. Report Screen (`ReportScreen`) 
+- Presents textual summaries of user's mood.
 
 ---
 
@@ -63,8 +63,13 @@ npm start
 ```
 
 ### 4. Open on Device or Emulator
-- **Using Expo Go**: Scan the QR code shown in the terminal.
-- **Android Emulator** or **iOS Simulator**: Follow Expo instructions to open the app.
+   - **Use Expo Go**: Scan the QR code from the terminal.
+   - **For Android Emulator**: 
+     - Install **Android Studio** and set up **Android Virtual Device**.
+     - Press `a` in the terminal to open it in the Android emulator.
+   - **For iOS Simulator**: 
+     - Install **Xcode** and open the iOS Simulator.
+     - Press `i` in the terminal to open it in the iOS Simulator.
 
 ---
 
@@ -80,7 +85,7 @@ npm start
 - Add graphical charts to visualize mood trends.
 - Daily reminder notifications to log mood.
 - Add more mood types (e.g., Anxious, Excited).
-- Export data to PDF or Excel.
+
 
 ---
 
@@ -93,10 +98,5 @@ npm start
 
 ## Resources
 
-**UI Inspiration / Mood Tracker Designs**  
-- [Design Inspiration](https://pin.it/42OQreyi2)
 
-**Helpful Learning Videos**  
-- [Intro to React Native]()  
-- [Using AsyncStorage]()  
 
