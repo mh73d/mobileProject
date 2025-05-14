@@ -13,12 +13,6 @@ MoodLog is a mobile app designed to help users track their daily moods with ease
 
 ---
 
-## Demo Video
-
-- **Demo Video**: 
-
----
-
 ## Technologies Used
 
 - **React Native** (0.76+): Framework used to build the cross-platform mobile app.
